@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">YXnGE_7ChWztWTxLQW3AjHmVmMJ_4JlIKIdIM</string>
+    <string name="app_name">PigRun</string>
+</resources>
