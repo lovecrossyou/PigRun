@@ -14,15 +14,15 @@ import TabNavigator from 'react-native-tab-navigator';
 import Home from './container/Home'
 const TabNavigatorItem =TabNavigator.Item;
 
-const TAB_NORMAL_1=require('./images/tabbar_1.png');
-const TAB_NORMAL_2=require('./images/tabbar_2.png');
-const TAB_NORMAL_3=require('./images/tabbar_3.png');
-const TAB_NORMAL_4=require('./images/tabbar_4.png');
+const TAB_NORMAL_1=require('./../images/tabbar_1.png');
+const TAB_NORMAL_2=require('./../images/tabbar_2.png');
+const TAB_NORMAL_3=require('./../images/tabbar_3.png');
+const TAB_NORMAL_4=require('./../images/tabbar_4.png');
 
-const TAB_PRESS_1=require('./images/tabbar_1_press.png');
-const TAB_PRESS_2=require('./images/tabbar_2_press.png');
-const TAB_PRESS_3=require('./images/tabbar_3_press.png');
-const TAB_PRESS_4=require('./images/tabbar_4_press.png');
+const TAB_PRESS_1=require('./../images/tabbar_1_press.png');
+const TAB_PRESS_2=require('./../images/tabbar_2_press.png');
+const TAB_PRESS_3=require('./../images/tabbar_3_press.png');
+const TAB_PRESS_4=require('./../images/tabbar_4_press.png');
 
 export default class PigRun extends Component {
     // const {navigator} = this.props;

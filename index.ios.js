@@ -12,6 +12,6 @@ import {
   View
 } from 'react-native';
 
-import App from './app'
-import GuideView from './guidComponent/GuideView'
+import App from './app/app'
+import GuideView from './app/guidComponent/GuideView'
 AppRegistry.registerComponent('PigRun', () => App);
